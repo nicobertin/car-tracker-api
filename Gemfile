@@ -43,3 +43,5 @@ end
 gem "good_job", "~> 4.5"
 
 gem "dotenv", "~> 3.1", ">= 3.1.4"
+
+gem "dockerfile-rails", ">= 1.6", :group => :development
